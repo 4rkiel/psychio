@@ -11,6 +11,9 @@
     "type": "git",
     "url": "git+https://github.com/4rkiel/psychio.git"
   },
+  "dependencies": {
+    "express": "latest"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
